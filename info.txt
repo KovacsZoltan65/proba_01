@@ -1,0 +1,15 @@
+https://docs.laravel-excel.com/3.1/getting-started/installation.html
+https://spatie.be/open-source?search=&sort=-downloads
+https://github.com/spatie/simple-excel
+
+composer create-project laravel/laravel proba_01 --prefer-dist
+
+composer require laravel/ui --dev
+php artisan ui vue --auth
+
+php artisan migrate
+
+npm install
+npm run dev
+
+composer require spatie/simple-excel
